@@ -16,6 +16,25 @@ Este repositorio reúne documentación técnica, guías prácticas y buenas prá
 Experiencia trabajando con cámaras IP de marcas como:
 **Axis, Hanwha Vision, Dahua, Hikvision, Avigilon, Bosch, FLIR, Vivotek, Rhombus, Pelco, Mobotix**, así como múltiples fabricantes compatibles **ONVIF**.
 
+## 🧠 Video Analítica y Analítica Avanzada
+
+Cuento con experiencia en el diseño, implementación y operación de **soluciones de video analítica** tanto en entornos **on‑premise** (servidores locales) como en **analítica en el borde (edge analytics)**.
+
+### Analítica en servidores on‑premise
+Trabajo con plataformas de analítica centralizada en servidores, tales como:
+- **Irisity** (anteriormente AgentVI)
+- **Axxon One VMS**
+- **IronYun – Vaidio**
+
+Estas soluciones se aplican a casos de uso como detección de intrusión, conteo de personas y vehículos, análisis de comportamiento, cumplimiento operativo y optimización de procesos en centros de monitoreo.
+
+### Analítica en el borde (Edge Analytics)
+Experiencia en el uso de **analíticas embebidas directamente en cámaras**, especialmente:
+- **Hanwha Vision**
+- **Axis Communications**
+
+Incluyendo eventos inteligentes, reglas analíticas, reducción de carga en servidores centrales y optimización del ancho de banda, manteniendo altos estándares de confiabilidad y precisión.
+``
 ## 🖥️ VMS / CMS y plataformas
 Diseño e integración de soluciones utilizando:
 - Milestone Systems (XProtect)
@@ -32,6 +51,7 @@ Diseño e integración de soluciones utilizando:
 - Redes TCP/IP aplicadas a CCTV
 - PoE y diseño de infraestructura
 - Normativas y estándares básicos de seguridad
+
 
 ## 📁 Estructura del proyecto
 /documentacion  
@@ -63,7 +83,24 @@ This repository contains technical documentation, practical guides, and best pra
 ## 🎥 Camera brands and manufacturers
 Hands-on experience with IP camera brands such as:
 **Axis, Hanwha Vision, Dahua, Hikvision, Avigilon, Bosch, FLIR, Vivotek, Rhombus, Pelco, Mobotix**, and many other **ONVIF-compliant** manufacturers.
+## 🧠 Video Analytics & Advanced Analytics
 
+I have hands-on experience in the design, deployment, and operation of **video analytics solutions** in both **on‑premise server environments** and **edge analytics** architectures.
+
+### On‑premise analytics platforms
+Experience working with centralized analytics platforms running on local servers, including:
+- **Irisity** (formerly AgentVI)
+- **Axxon One VMS**
+- **IronYun – Vaidio**
+
+These platforms are used for intrusion detection, people and vehicle counting, behavior analysis, operational compliance, and process optimization within monitoring centers.
+
+### Edge analytics (on‑camera)
+Experience with **analytics embedded directly on IP cameras**, particularly with:
+- **Hanwha Vision**
+- **Axis Communications**
+
+Including intelligent events, analytics rules, reduced server load, and bandwidth optimization while maintaining high levels of accuracy and reliability.
 ## 🖥️ VMS / CMS Platforms
 Design and integration of solutions using:
 - Milestone Systems (XProtect)
@@ -80,6 +117,7 @@ Design and integration of solutions using:
 - TCP/IP networks for CCTV systems
 - PoE and infrastructure design
 - Basic security standards and best practices
+
 
 ## 📁 Project structure
 /documentation  
